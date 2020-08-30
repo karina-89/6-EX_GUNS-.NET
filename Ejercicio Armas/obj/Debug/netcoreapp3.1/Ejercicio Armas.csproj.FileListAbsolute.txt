@@ -1,0 +1,13 @@
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.exe
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.deps.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.runtimeconfig.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.runtimeconfig.dev.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\bin\Debug\netcoreapp3.1\Ejercicio Armas.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.AssemblyInfo.cs
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.genruntimeconfig.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios6\Ejercicio Armas\obj\Debug\netcoreapp3.1\Ejercicio Armas.csprojAssemblyReference.cache
